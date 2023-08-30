@@ -75,7 +75,6 @@ export default {
   },
 };
 </script>
-
 <style scoped>
 @import "@/assets/css/main.css";
 * {
